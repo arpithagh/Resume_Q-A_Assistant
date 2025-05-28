@@ -21,6 +21,9 @@ A simple web app to interact with resumes using OpenAI's GPT model and Gradio. U
 - PyPDF2
 - dotenv
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+
 ## 📷 Screenshots
 
 ### Output
@@ -35,3 +38,6 @@ git clone https://github.com/arpithagh/Resume_Q-A_Assistant.git
 cd Resume_Q-A_Assistant
 pip install -r requirements.txt
 python Resume_Assistant.py
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
