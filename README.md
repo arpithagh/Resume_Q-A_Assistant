@@ -28,9 +28,10 @@ A simple web app to interact with resumes using OpenAI's GPT model and Gradio. U
 ![Resume Q&A Screenshot 1](https://github.com/arpithagh/Resume_Q-A_Assistant/blob/8a66c387881d3242b09162f04d8ab26db5b2fd42/Screenshot%20(7).png)  
 ![Resume Q&A Screenshot 2](https://github.com/arpithagh/Resume_Q-A_Assistant/blob/973e9eba1aa6bd0b4cad60da4329dfd9e177e933/Screenshot%20(8).png?raw=true)
 
-## 📦 Installation
+## ▶️ How to run
 
 ```bash
-git clone https://github.com/yourusername/resume-qa-assistant.git
-cd resume-qa-assistant
+git clone https://github.com/arpithagh/Resume_Q-A_Assistant.git
+cd Resume_Q-A_Assistant
 pip install -r requirements.txt
+python Resume_Assistant.py
