@@ -26,7 +26,7 @@ A simple web app to interact with resumes using OpenAI's GPT model and Gradio. U
 ### Output
 
 ![Resume Q&A Screenshot 1](https://github.com/arpithagh/Resume_Q-A_Assistant/blob/8a66c387881d3242b09162f04d8ab26db5b2fd42/Screenshot%20(7).png)  
-![Resume Q&A Screenshot 2](https://github.com/arpithagh/Resume_Q-A_Assistant/blob/f86dc86f92bbf6cc6695802663501cddb6c79699/Screenshot%20(8).png?raw=true)
+![Resume Q&A Screenshot 2](https://github.com/arpithagh/Resume_Q-A_Assistant/blob/973e9eba1aa6bd0b4cad60da4329dfd9e177e933/Screenshot%20(8).png?raw=true)
 
 ## 📦 Installation
 
